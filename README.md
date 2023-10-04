@@ -6,9 +6,9 @@ In linear data structures, the elements are arranged in sequence one after the o
 However, when the complexity of the program increases, the linear data structures might not be the best choice because of operational complexities.
 
 Popular linear data structures are:
-  Array
-  Queue
-  Stack
+  Array, 
+  Queue,
+  Stack, 
   LinkedList
   
 
