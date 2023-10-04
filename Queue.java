@@ -1,3 +1,9 @@
+// Unlike stack, the queue data structure works in the FIFO principle where first element stored in the queue will be removed first.
+
+// It works just like a queue of people in the ticket counter where first person on the queue will get the ticket first.
+// In a queue, addition and removal are performed from separate ends.
+
+
 public class Queue {
     int front;
     int rear;
