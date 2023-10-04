@@ -1,3 +1,8 @@
+// In an array, elements in memory are arranged in continuous memory. 
+// All the elements of an array are of the same type. And, the type of 
+// elements that can be stored in the form of arrays is determined by the programming language.
+// An array with each element represented by an index
+
 import java.util.Scanner;
 
 public class ArrayImp {
