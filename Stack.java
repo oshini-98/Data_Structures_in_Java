@@ -1,3 +1,8 @@
+// In stack data structure, elements are stored in the LIFO principle. That is, the last element stored in a stack will be removed first.
+
+// It works just like a pile of plates where the last plate kept on the pile will be removed first.
+// In a stack, operations can be perform only from one end (top here).
+
 public class Stack {
 
     int arr[];
